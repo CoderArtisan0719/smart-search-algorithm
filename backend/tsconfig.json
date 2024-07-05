@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "commonjs",
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true
+  },
+  "include": ["src/**/*.ts", "src/seed.js", "src/models/brand.ts", "src/models/index.ts", "src/models/dishtype.js", "src/models/diet.js", "src/models/city.js", "src/utils/seedHelpers.js", "src/utils/seedHelpers.js", "src/utils/dataConfig.js", "src/utils/seedHelpers.js", "src/models/index.js"],
+  "exclude": ["node_modules"]
+}

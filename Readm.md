@@ -88,7 +88,7 @@ These instructions will guide you on how to get your copy of the project up and 
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourgithubusername/entity-extractor.git
+   git clone https://github.com/CoderArtisan0719/smart-search-algorithm.git
    cd entity-extractor
 2. **Clone the Repository**
 
